@@ -1,0 +1,86 @@
+### Step 1: Learn Basic Web Development
+#### 1. HTML & CSS
+- **Resources**:
+  - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [freeCodeCamp - Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+#### 2. JavaScript Basics
+- **Resources**:
+  - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Eloquent JavaScript (Book)](https://eloquentjavascript.net/)
+  - [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+### Step 2: Learn Intermediate JavaScript
+#### 1. ES6+ Features
+- **Resources**:
+  - [MDN Web Docs - ECMAScript 6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+  - [You Don't Know JS (Book Series)](https://github.com/getify/You-Dont-Know-JS)
+
+#### 2. Asynchronous JavaScript
+- **Resources**:
+  - [MDN Web Docs - Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+  - [JavaScript.info - Promises, Async/Await](https://javascript.info/async)
+
+### Step 3: Introduction to React.js
+#### 1. React Basics
+- **Resources**:
+  - [React Official Documentation](https://reactjs.org/docs/getting-started.html)
+  - [freeCodeCamp - Front End Libraries Certification (React)](https://www.freecodecamp.org/learn/front-end-libraries/)
+  - [Codecademy - React Course](https://www.codecademy.com/learn/react-101)
+
+#### 2. React Advanced Concepts
+- **Resources**:
+  - [React Official Documentation - Hooks](https://reactjs.org/docs/hooks-intro.html)
+  - [Fullstack Open 2023 - React Part](https://fullstackopen.com/en/part1)
+  - [Egghead.io - The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
+### Step 4: React Projects
+#### Project 1: Simple To-Do List
+- **Description**: Create a basic to-do list application to understand component structure, state management, and basic events.
+- **Resources**:
+  - [Building a Simple To-Do App with React](https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks)
+
+#### Project 2: Weather App
+- **Description**: Create a weather application that fetches data from an API. This will introduce API calls, state, and props.
+- **Resources**:
+  - [Build a Weather App in React](https://www.freecodecamp.org/news/build-a-simple-weather-app-with-react/)
+
+#### Project 3: Movie Search App
+- **Description**: Create a movie search application using an external API like OMDb. Focus on form handling, API integration, and conditional rendering.
+- **Resources**:
+  - [Build a Movie Search App using React](https://ibaslogic.com/react-tutorial-for-beginners/)
+
+#### Project 4: Personal Blog
+- **Description**: Create a personal blog application where users can add, edit, and delete posts. This will cover CRUD operations and local storage.
+- **Resources**:
+  - [Building a Blog with React and Markdown](https://www.gatsbyjs.com/docs/tutorial/part-1/)
+
+### Step 5: Advanced React and Ecosystem
+#### 1. State Management (Redux or Context API)
+- **Resources**:
+  - [Redux Official Documentation](https://redux.js.org/)
+  - [Context API - React Documentation](https://reactjs.org/docs/context.html)
+  - [State Management with Redux - freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/redux/)
+
+#### 2. Routing (React Router)
+- **Resources**:
+  - [React Router Documentation](https://reactrouter.com/)
+  - [React Router Tutorial](https://www.taniarascia.com/react-router/)
+
+#### 3. Testing (Jest, React Testing Library)
+- **Resources**:
+  - [Testing Library Documentation](https://testing-library.com/docs/react-testing-library/intro/)
+  - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
+  - [Testing React Apps](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
+
+### Step 6: Advanced Projects
+#### Project 5: E-commerce Site
+- **Description**: Build a small e-commerce application with product listings, a shopping cart, and checkout functionality.
+- **Resources**:
+  - [React E-commerce Tutorial](https://snipcart.com/blog/react-ecommerce-tutorial)
+
+#### Project 6: Social Media Dashboard
+- **Description**: Create a dashboard that displays data from various social media platforms, incorporating API calls, data visualization, and user authentication.
+- **Resources**:
+  - [Building a Social Media Dashboard with React](https://dev.to/novu/build-a-social-media-dashboard-with-react-4g8g)
