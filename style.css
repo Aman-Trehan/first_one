@@ -1,0 +1,43 @@
+.article{
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    box-sizing: border-box;
+    display: inline-block;
+}   
+*{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+.box::before{
+    content:"Hello";
+}
+.product{
+    background-color:gold;
+}
+.box1{
+    width: 100px;
+    height:100px;
+    border: 10px drak gold;
+    overflow: hidden auto;
+
+}
+ul{
+    list-style-type:none;
+}
+table, td,th {
+    border:5px solid orange;
+    border-collapse: collapse;
+    padding:5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#products + p {
+    color: brown;
+}
